@@ -14,9 +14,30 @@
 [![Local first](https://img.shields.io/badge/Local--first-本地优先-6f42c1?style=flat-square)](#我在做什么)
 [![Open to feedback](https://img.shields.io/badge/欢迎反馈-Issues-0969da?style=flat-square)](#获取与交流)
 
-[我在做什么](#我在做什么) · [为什么做](#为什么做) · [获取与交流](#获取与交流)
+[开始使用](GETTING-STARTED.md) · [我在做什么](#我在做什么) · [为什么做](#为什么做) · [获取与交流](#获取与交流)
 
 </div>
+
+---
+
+## 从这里开始
+
+如果你是从视频过来的，不用先研究一堆介绍：
+
+1. 按你的问题挑一个产品；
+2. 打开[上手页](GETTING-STARTED.md)，先看适用场景和安装方式；
+3. 到[爱发电领取与更新入口](https://afdian.com/a/lydiahub2026)获取当前版本。
+
+基础版本免费分享。遇到问题可以提 Issue，也可以在抖音主页群聊里交流；需要定制、部署适配或长期维护，再单独联系。
+
+<table>
+<tr>
+<td width="25%"><b>想法总是记不住</b><br>→ Obsidian 工作流</td>
+<td width="25%"><b>Codex 看腻了原生界面</b><br>→ 皮肤与管理工具</td>
+<td width="25%"><b>重复运营工作太多</b><br>→ WorkBuddy 数字员工</td>
+<td width="25%"><b>有些问题想继续想</b><br>→ 回声 APP</td>
+</tr>
+</table>
 
 ---
 
